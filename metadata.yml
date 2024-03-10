@@ -1,0 +1,7 @@
+name: "Last Commander: Uber Upgrade"
+version: "N5.2.1"
+description: "If, as commander from the era of Old Earth, you have have decided that being superior is not enough, you can follow through with this."
+author: "WarStalkeR"
+id: xpzLastCommanderUberUpgrade
+master: piratez
+requiredExtendedVersion: "7.9.8"
